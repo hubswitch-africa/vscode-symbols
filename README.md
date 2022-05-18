@@ -1,4 +1,4 @@
-# vscode-symbols README
+# vscode-symbols
 
 Get any symbol easily, especially those that aren't on your keyboard. It coould be your native currency, degree symbols, greek alphabets, etc. All you have to do is type the name.
 
