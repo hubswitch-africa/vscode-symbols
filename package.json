@@ -1,0 +1,20 @@
+{
+    "name": "vscode-symbols",
+    "displayName": "Symbols",
+    "description": "Get any symbol easily, especially those that aren't on your keyboard. It coould be your native currency, degree symbols, greek alphabets, etc",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "*",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
