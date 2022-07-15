@@ -1,1 +1,218 @@
-{}
+{
+    "nigeria": {
+        "prefix": "naira",
+        "body": "₦"
+    },
+    "algeria": {
+        "prefix": "",
+        "body": ""
+    },
+    "democratic-republic-of-congo": {
+        "prefix": "",
+        "body": ""
+    },
+    "sudan": {
+        "prefix": "",
+        "body": ""
+    },
+    "libya": {
+        "prefix": "",
+        "body": ""
+    },
+    "chad": {
+        "prefix": "",
+        "body": ""
+    },
+    "niger": {
+        "prefix": "",
+        "body": ""
+    },
+    "angola": {
+        "prefix": "",
+        "body": ""
+    },
+    "mali": {
+        "prefix": "",
+        "body": ""
+    },
+    "south-africa": {
+        "prefix": "",
+        "body": ""
+    },
+    "ethiopia": {
+        "prefix": "",
+        "body": ""
+    },
+    "mauritiana": {
+        "prefix": "",
+        "body": ""
+    },
+    "egypt": {
+        "prefix": "",
+        "body": ""
+    },
+    "tanzania": {
+        "prefix": "",
+        "body": ""
+    },
+    "namibia": {
+        "prefix": "",
+        "body": ""
+    },
+    "mozambique": {
+        "prefix": "",
+        "body": ""
+    },
+    "zambia": {
+        "prefix": "",
+        "body": ""
+    },
+    "south-sudan": {
+        "prefix": "",
+        "body": ""
+    },
+    "somalia": {
+        "prefix": "",
+        "body": ""
+    },
+    "central-african-republic": {
+        "prefix": "",
+        "body": ""
+    },
+    "madagascar": {
+        "prefix": "",
+        "body": ""
+    },
+    "botswana": {
+        "prefix": "",
+        "body": ""
+    },
+    "kenya": {
+        "prefix": "",
+        "body": ""
+    },
+    "cameroon": {
+        "prefix": "",
+        "body": ""
+    },
+    "morocco": {
+        "prefix": "",
+        "body": ""
+    },
+    "zimbabwe": {
+        "prefix": "",
+        "body": ""
+    },
+    "republic-of-congo": {
+        "prefix": "",
+        "body": ""
+    },
+    "ivory-coast": {
+        "prefix": "",
+        "body": ""
+    },
+    "burkina-faso": {
+        "prefix": "",
+        "body": ""
+    },
+    "gabon": {
+        "prefix": "",
+        "body": ""
+    },
+    "sahrawi-arab-democratic-republic": {
+        "prefix": "",
+        "body": ""
+    },
+    "guinea": {
+        "prefix": "",
+        "body": ""
+    },
+    "ghana": {
+        "prefix": "",
+        "body": ""
+    },
+    "uganda": {
+        "prefix": "",
+        "body": ""
+    },
+    "senegal": {
+        "prefix": "",
+        "body": ""
+    },
+    "tunisia": {
+        "prefix": "",
+        "body": ""
+    },
+    "malawi": {
+        "prefix": "",
+        "body": ""
+    },
+    "eritrea": {
+        "prefix": "",
+        "body": ""
+    },
+    "benin": {
+        "prefix": "",
+        "body": ""
+    },
+    "sierra-leone": {
+        "prefix": "",
+        "body": ""
+    },
+    "togo": {
+        "prefix": "",
+        "body": ""
+    },
+    "guinea-bissau": {
+        "prefix": "",
+        "body": ""
+    },
+    "lesotho": {
+        "prefix": "",
+        "body": ""
+    },
+    "equatorial-guinea": {
+        "prefix": "",
+        "body": ""
+    },
+    "burundi": {
+        "prefix": "",
+        "body": ""
+    },
+    "rwanda": {
+        "prefix": "",
+        "body": ""
+    },
+    "djibouti": {
+        "prefix": "",
+        "body": ""
+    },
+    "eswatini": {
+        "prefix": "",
+        "body": ""
+    },
+    "the-gambia": {
+        "prefix": "",
+        "body": ""
+    },
+    "cape-verde": {
+        "prefix": "",
+        "body": ""
+    },
+    "comoros": {
+        "prefix": "",
+        "body": ""
+    },
+    "mauritius": {
+        "prefix": "",
+        "body": ""
+    },
+    "sao-tome-and-principe": {
+        "prefix": "",
+        "body": ""
+    },
+    "seychelles": {
+        "prefix": "",
+        "body": ""
+    }
+}
