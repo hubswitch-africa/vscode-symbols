@@ -12,7 +12,6 @@
     "contributes": {
         "snippets": [
             {
-                "language": "*",
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
