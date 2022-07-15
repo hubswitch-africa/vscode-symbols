@@ -1,0 +1,55 @@
+- Nigeria ✔
+- Algeria
+- Democratic republic of Congo
+- Sudan
+- Libya
+- Chad
+- Niger
+- Angola
+- Mali
+- South Africa
+- Ethiopia
+- Mauritiana
+- Egypt
+- Tanzania
+- Namibia
+- Mozambique
+- Zambia
+- South Sudan
+- Somalia
+- Central African Republic
+- Madagascar
+- Botswana
+- Kenya
+- Cameroon
+- Morocco
+- Zimbabwe
+- Republic of Congo
+- Ivory Coast (Côte d'Ivoire)
+- Burkina Faso
+- Gabon
+- Sahrawi Arab Democratic Republic
+- Guinea
+- Ghana
+- Uganda
+- Senegal
+- Tunisia
+- Malawi
+- Eritrea
+- Benin
+- Liberia
+- Sierra Leone
+- Togo
+- Guinea-Bissau
+- Lesotho
+- Equatorial Guinea
+- Burundi
+- Rwanda
+- Djibouti
+- Eswatini (Swaziland)
+- The Gambia
+- Cape Verde
+- Comoros
+- Mauritius
+- São Tomé and Príncipe
+- Seychelles
