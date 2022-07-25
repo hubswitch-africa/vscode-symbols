@@ -4,8 +4,8 @@ Get any symbol easily, especially those that aren't on your keyboard. It could b
 
 ## Usage
 
-* `naira`: returns the symbol for Nigeria's naira
-* `yen`: returns the symbol for Japan's yen
+* `NGN`: returns the symbol for Nigeria's naira
+* `JPY`: returns the symbol for Japan's yen
 
 ## Release Notes
 
