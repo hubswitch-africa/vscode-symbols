@@ -30,5 +30,6 @@
     },
     "keywords": ["symbols", "currency", "cryptocurrency", "degree", "greek", "sign", "snippets"],
     "homepage": "https://github.com/hubswitch-africa/vscode-symbols",
-    "license": "MIT"
+    "license": "MIT",
+    "preview": true
 }

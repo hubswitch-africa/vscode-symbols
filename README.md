@@ -9,7 +9,7 @@ Get any symbol easily, especially those that aren't on your keyboard. It could b
 
 ## Release Notes
 
-### 0.1.0
+### 0.0.1
 
 Initial release
 
