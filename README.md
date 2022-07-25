@@ -4,8 +4,8 @@ Get any symbol easily, especially those that aren't on your keyboard. It could b
 
 ## Usage
 
-* `NGN`: returns the symbol for Nigeria's naira
-* `JPY`: returns the symbol for Japan's yen
+* `Nigeria`: returns the symbol for Nigeria's naira
+* `Japan`: returns the symbol for Japan's yen
 
 ## Release Notes
 
@@ -19,6 +19,6 @@ Initial release
 For ideas, issues, additions and modifications, please raise an [issue](https://github.com/hubswitch-africa/vscode-symbols/issues) or a [pull request](https://github.com/hubswitch-africa/vscode-symbols/pulls).
 
 ## Credits
-Many thanks to the team at Hubswitch Africa https://github.com/hubswitch-africa
+[The Hubswitch Africa Community](https://github.com/hubswitch-africa)
 
 **Enjoy!**
