@@ -1,218 +1,218 @@
 {
-    "nigeria": {
-        "prefix": "ngn",
+    "Nigerian Naira": {
+        "prefix": "Nigeria",
         "body": "₦"
     },
-    "algeria": {
-        "prefix": "dzd",
+    "Algerian ": {
+        "prefix": "Algeria",
         "body": "دج"
     },
     "democratic-republic-of-congo": {
-        "prefix": "cdf",
+        "prefix": "Democratic republic of congo",
         "body": "FC"
     },
     "sudan": {
-        "prefix": "sdb",
+        "prefix": "Sudan",
         "body": "ج.س."
     },
     "libya": {
-        "prefix": "lyd",
+        "prefix": "Libya",
         "body": "ل.د"
     },
     "chad": {
-        "prefix": "xaf",
+        "prefix": "Chad",
         "body": "FCFA"
     },
     "niger": {
-        "prefix": "xof",
+        "prefix": "Niger",
         "body": "CFA"
     },
     "angola": {
-        "prefix": "",
+        "prefix": "Angola",
         "body": ""
     },
     "mali": {
-        "prefix": "",
+        "prefix": "Mali",
         "body": ""
     },
     "south-africa": {
-        "prefix": "",
+        "prefix": "South Africa",
         "body": ""
     },
     "ethiopia": {
-        "prefix": "",
+        "prefix": "Ethiopa",
         "body": ""
     },
     "mauritiana": {
-        "prefix": "",
+        "prefix": "Mauritiana",
         "body": ""
     },
     "egypt": {
-        "prefix": "",
+        "prefix": "Egypt",
         "body": ""
     },
     "tanzania": {
-        "prefix": "",
+        "prefix": "Tanzania",
         "body": ""
     },
     "namibia": {
-        "prefix": "",
+        "prefix": "Namibia",
         "body": ""
     },
     "mozambique": {
-        "prefix": "",
+        "prefix": "Mozambique",
         "body": ""
     },
     "zambia": {
-        "prefix": "",
+        "prefix": "Zambia",
         "body": ""
     },
     "south-sudan": {
-        "prefix": "",
+        "prefix": "South Sudan",
         "body": ""
     },
     "somalia": {
-        "prefix": "",
+        "prefix": "Somalia",
         "body": ""
     },
     "central-african-republic": {
-        "prefix": "",
+        "prefix": "Central African Republic",
         "body": ""
     },
     "madagascar": {
-        "prefix": "",
+        "prefix": "Madagascar",
         "body": ""
     },
     "botswana": {
-        "prefix": "",
+        "prefix": "Botswana",
         "body": ""
     },
     "kenya": {
-        "prefix": "",
+        "prefix": "Kenya",
         "body": ""
     },
     "cameroon": {
-        "prefix": "",
+        "prefix": "Cameroon",
         "body": ""
     },
     "morocco": {
-        "prefix": "",
+        "prefix": "Morocco",
         "body": ""
     },
     "zimbabwe": {
-        "prefix": "",
+        "prefix": "Zimbabwe",
         "body": ""
     },
     "republic-of-congo": {
-        "prefix": "",
+        "prefix": "Republic of congo",
         "body": ""
     },
     "ivory-coast": {
-        "prefix": "",
+        "prefix": "Ivory Coast",
         "body": ""
     },
     "burkina-faso": {
-        "prefix": "",
+        "prefix": "Burkina faso",
         "body": ""
     },
     "gabon": {
-        "prefix": "",
+        "prefix": "Gabon",
         "body": ""
     },
     "sahrawi-arab-democratic-republic": {
-        "prefix": "",
+        "prefix": "Sahrawi Arab Democratic Republic",
         "body": ""
     },
     "guinea": {
-        "prefix": "",
+        "prefix": "Guinea",
         "body": ""
     },
     "ghana": {
-        "prefix": "",
+        "prefix": "Ghana",
         "body": ""
     },
     "uganda": {
-        "prefix": "",
+        "prefix": "Uganda",
         "body": ""
     },
     "senegal": {
-        "prefix": "",
+        "prefix": "Senegal",
         "body": ""
     },
     "tunisia": {
-        "prefix": "",
+        "prefix": "Tunisia",
         "body": ""
     },
     "malawi": {
-        "prefix": "",
+        "prefix": "Malawi",
         "body": ""
     },
     "eritrea": {
-        "prefix": "",
+        "prefix": "Eritrea",
         "body": ""
     },
     "benin": {
-        "prefix": "",
+        "prefix": "Benin",
         "body": ""
     },
     "sierra-leone": {
-        "prefix": "",
+        "prefix": "Sierra Leone",
         "body": ""
     },
     "togo": {
-        "prefix": "",
+        "prefix": "Togo",
         "body": ""
     },
     "guinea-bissau": {
-        "prefix": "",
+        "prefix": "Guinea Bissau",
         "body": ""
     },
     "lesotho": {
-        "prefix": "",
+        "prefix": "Lesotho",
         "body": ""
     },
     "equatorial-guinea": {
-        "prefix": "",
+        "prefix": "Equatorial Guinea",
         "body": ""
     },
     "burundi": {
-        "prefix": "",
+        "prefix": "Burundi",
         "body": ""
     },
     "rwanda": {
-        "prefix": "",
+        "prefix": "Rwanda",
         "body": ""
     },
     "djibouti": {
-        "prefix": "",
+        "prefix": "Djibouti",
         "body": ""
     },
     "eswatini": {
-        "prefix": "",
+        "prefix": "Eswatini",
         "body": ""
     },
     "the-gambia": {
-        "prefix": "",
+        "prefix": "The Gambia",
         "body": ""
     },
     "cape-verde": {
-        "prefix": "",
+        "prefix": "Cape Verde",
         "body": ""
     },
     "comoros": {
-        "prefix": "",
+        "prefix": "Comoros",
         "body": ""
     },
     "mauritius": {
-        "prefix": "",
+        "prefix": "Mauritius",
         "body": ""
     },
     "sao-tome-and-principe": {
-        "prefix": "",
+        "prefix": "Sao tome and principe",
         "body": ""
     },
     "seychelles": {
-        "prefix": "",
+        "prefix": "Seychelles",
         "body": ""
     }
 }
