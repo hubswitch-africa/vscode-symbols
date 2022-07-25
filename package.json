@@ -2,7 +2,7 @@
     "name": "vscode-symbols",
     "displayName": "Symbols",
     "description": "Get any symbol easily, especially those that aren't on your keyboard. It could be your native currency, degree symbols, greek alphabets, HTML5 entities, or even crypto currency. All you have to do is type the name.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.67.0"
     },
