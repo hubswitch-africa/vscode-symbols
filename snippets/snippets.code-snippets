@@ -1,31 +1,31 @@
 {
     "nigeria": {
-        "prefix": "naira",
+        "prefix": "ngn",
         "body": "₦"
     },
     "algeria": {
-        "prefix": "",
-        "body": ""
+        "prefix": "dzd",
+        "body": "دج"
     },
     "democratic-republic-of-congo": {
-        "prefix": "",
-        "body": ""
+        "prefix": "cdf",
+        "body": "FC"
     },
     "sudan": {
-        "prefix": "",
-        "body": ""
+        "prefix": "sdb",
+        "body": "ج.س."
     },
     "libya": {
-        "prefix": "",
-        "body": ""
+        "prefix": "lyd",
+        "body": "ل.د"
     },
     "chad": {
-        "prefix": "",
-        "body": ""
+        "prefix": "xaf",
+        "body": "FCFA"
     },
     "niger": {
-        "prefix": "",
-        "body": ""
+        "prefix": "xof",
+        "body": "CFA"
     },
     "angola": {
         "prefix": "",
