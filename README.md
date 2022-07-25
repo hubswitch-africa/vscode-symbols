@@ -15,5 +15,10 @@ Initial release
 
 -----------------------------------------------------------------------------------------------------------
 
+## Contributing / Issues / Requests
+For ideas, issues, additions and modifications, please raise an [issue](https://github.com/hubswitch-africa/vscode-symbols/issues) or a [pull request](https://github.com/hubswitch-africa/vscode-symbols/pulls).
+
+## Credits
+Many thanks to the team at Hubswitch Africa https://github.com/hubswitch-africa
 
 **Enjoy!**
