@@ -16,5 +16,19 @@
             }
         ]
     },
-    "publisher": "mickela"
+    "publisher": "mickela",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hubswitch-africa/vscode-symbols"
+    },
+    "author": {
+        "name": "Michael Osoba",
+        "url": "https://github.com/mickela"
+    },
+    "bugs": {
+        "url": "https://github.com/hubswitch-africa/vscode-symbols/issues"
+    },
+    "keywords": ["symbols", "currency", "cryptocurrency", "degree", "greek", "sign", "snippets"],
+    "homepage": "https://github.com/hubswitch-africa/vscode-symbols",
+    "license": "MIT"
 }
