@@ -1,4 +1,6 @@
 {
+    // African Currencies
+
     "Nigerian Naira": {
         "prefix": "Nigeria",
         "body": "₦"
@@ -213,6 +215,13 @@
     },
     "Seychellois rupee": {
         "prefix": "Seychelles",
+        "body": "SRe"
+    },
+
+    // Asian Currencies
+
+    "Japanese Yen": {
+        "prefix": "Japan",
         "body": "SRe"
     }
 }
