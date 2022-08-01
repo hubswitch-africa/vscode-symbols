@@ -220,8 +220,100 @@
 
     // Asian Currencies
 
+    "United Arab Emirates Dirham": {
+        "prefix": "United Arab Emirates",
+        "body": "د.إ"
+    },
+    "Vietnam Dong": {
+        "prefix": "Vietnam",
+        "body": "₫"
+    },
+    "Tajikistan Somoni": {
+        "prefix": "Tajikistan",
+        "body": "ЅM"
+    },
+    "Israeli Shekel": {
+        "prefix": "Israel",
+        "body": "₪"
+    },
+    "Turkish lira": {
+        "prefix": "Turkey",
+        "body": "₺"
+    },
+    "Iran": {
+        "prefix": "Iran",
+        "body": ""
+    },
+    "Bhutan": {
+        "prefix": "Bhutan",
+        "body": ""
+    },
+    "Laos": {
+        "prefix": "Laos",
+        "body": ""
+    },
+    "Thailand": {
+        "prefix": "Thailand",
+        "body": ""
+    },
+    "Lebanon": {
+        "prefix": "Lebanon",
+        "body": ""
+    },
+    "Kyrgyzstan": {
+        "prefix": "Kyrgyzstan",
+        "body": ""
+    },
+    "Turkmenistan": {
+        "prefix": "Turkmenistan",
+        "body": ""
+    },
+    "Singapore": {
+        "prefix": "Singapore",
+        "body": ""
+    },
+    "Myanmar": {
+        "prefix": "Myanmar",
+        "body": ""
+    },
+    "Maldives": {
+        "prefix": "Maldives",
+        "body": ""
+    },
     "Japanese Yen": {
         "prefix": "Japan",
-        "body": "SRe"
+        "body": ""
+    },
+    "Japanese Yen": {
+        "prefix": "Japan",
+        "body": ""
+    },
+    "Japanese Yen": {
+        "prefix": "Japan",
+        "body": ""
+    },
+    "Japanese Yen": {
+        "prefix": "Japan",
+        "body": ""
+    },
+    "Japanese Yen": {
+        "prefix": "Japan",
+        "body": ""
+    },
+    "Japanese Yen": {
+        "prefix": "Japan",
+        "body": ""
+    },
+    "Japanese Yen": {
+        "prefix": "Japan",
+        "body": ""
+    },
+    "Japanese Yen": {
+        "prefix": "Japan",
+        "body": ""
+    },
+    "Japanese Yen": {
+        "prefix": "Japan",
+        "body": ""
     }
 }
