@@ -9,9 +9,13 @@ Get any symbol easily, especially those that aren't on your keyboard. It could b
 
 ## Release Notes
 
+### 0.0.3
+
+Add support for all Asian countries
+
 ### 0.0.2
 
-Add support for all african countries
+Add support for all African countries
 
 ### 0.0.1
 

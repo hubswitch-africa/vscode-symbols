@@ -3,11 +3,11 @@ All notable changes to this project will be documented in this file.
 
 ### 0.0.3
 
-Add support for all asian countries
+Add support for all Asian countries
 
 ### 0.0.2
 
-Add support for all african countries
+Add support for all African countries
 
 ### 0.0.1
 
