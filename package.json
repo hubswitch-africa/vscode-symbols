@@ -28,7 +28,7 @@
     "bugs": {
         "url": "https://github.com/hubswitch-africa/vscode-symbols/issues"
     },
-    "keywords": ["symbols", "currency", "cryptocurrency", "degree", "greek", "sign", "snippets"],
+    "keywords": ["symbols", "currency", "cryptocurrency", "degree", "greek", "sign", "snippets", "african currencies", "asian currencies"],
     "homepage": "https://github.com/hubswitch-africa/vscode-symbols",
     "license": "MIT",
     "preview": true
