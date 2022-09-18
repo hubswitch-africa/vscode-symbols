@@ -240,80 +240,172 @@
         "prefix": "Turkey",
         "body": "₺"
     },
-    "Iran": {
+    "Iranian rial": {
         "prefix": "Iran",
-        "body": ""
+        "body": "﷼"
     },
-    "Bhutan": {
+    "Bhutanese ngultrum": {
         "prefix": "Bhutan",
-        "body": ""
+        "body": "Nu."
     },
-    "Laos": {
+    "Lao kip": {
         "prefix": "Laos",
-        "body": ""
+        "body": " ₭N"
     },
-    "Thailand": {
+    "Thai baht": {
         "prefix": "Thailand",
-        "body": ""
+        "body": "฿"
     },
-    "Lebanon": {
+    "Lebanese pound": {
         "prefix": "Lebanon",
-        "body": ""
+        "body": "ل.ل."
     },
-    "Kyrgyzstan": {
+    "Kyrgyzstani som": {
         "prefix": "Kyrgyzstan",
-        "body": ""
+        "body": "Лв"
     },
-    "Turkmenistan": {
+    "Turkmenistani manat": {
         "prefix": "Turkmenistan",
-        "body": ""
+        "body": "T"
     },
-    "Singapore": {
+    "Singapore dollar": {
         "prefix": "Singapore",
-        "body": ""
+        "body": "S$"
     },
-    "Myanmar": {
+    "Myanmar kyat": {
         "prefix": "Myanmar",
-        "body": ""
+        "body": "K"
     },
-    "Maldives": {
+    "Maldivian rufiyaa": {
         "prefix": "Maldives",
-        "body": ""
+        "body": ".ރ"
     },
-    "South Korea": {
-        "prefix": "Japan",
-        "body": ""
+    "South Korean won": {
+        "prefix": "South Korea",
+        "body": "₩"
     },
-    "Oman": {
-        "prefix": "Japan",
-        "body": ""
+    "Omani rial": {
+        "prefix": "Oman",
+        "body": "ر.ع."
     },
-    "State of Palestine": {
-        "prefix": "Japan",
-        "body": ""
+    "Palestine pound": {
+        "prefix": "State of Palestine",
+        "body": "£P"
     },
-    "Brunei": {
-        "prefix": "Japan",
-        "body": ""
+    "Brunei dollar": {
+        "prefix": "Brunei",
+        "body": "B$"
     },
-    "Kuwait": {
-        "prefix": "Japan",
-        "body": ""
+    "Kuwaiti dinar": {
+        "prefix": "Kuwait",
+        "body": "د.ك"
     },
-    "Iraq": {
-        "prefix": "Japan",
-        "body": ""
+    "Iraqi Dinar": {
+        "prefix": "Iraq",
+        "body": "ع.د"
     },
-    "Georgia": {
-        "prefix": "Japan",
-        "body": ""
+    "Georgian lari": {
+        "prefix": "Georgia",
+        "body": "ლ"
     },
-    "Afghanistan": {
-        "prefix": "Japan",
-        "body": ""
+    "Afghan Afghani": {
+        "prefix": "Afghanistan",
+        "body": "؋"
     },
-    "Saudi Arabia": {
+    "Saudi Riyal": {
+        "prefix": "Saudi Arabia",
+        "body": "﷼"
+    },
+    "Uzbekistani Som": {
+        "prefix": "Uzbekistan",
+        "body": "so'm"    
+    },
+    "Mongolian tögrög": {
+        "prefix": "Mongolia",
+        "body": "₮"
+    },
+    "Yemeni Rial": {
+        "prefix": "Yemen",
+        "body": "﷼"
+    },
+    "Armenian Dram": {
+        "prefix": "Armenia",
+        "body": "֏"
+    },
+    "Nepalese rupee": {
+        "prefix": "Nepal",
+        "body": "रू"
+    },
+    "Qatari Riyal": {
+        "prefix": "Qatar",
+        "body": "ر.ق"
+    },
+    "Indonesian rupiah": {
+        "prefix": "Indonesia",
+        "body": "Rp"
+    },
+    "North Korean won": {
+        "prefix": "North Korea",
+        "body": "₩"
+    },
+    "Pakistani Rupee": {
+        "prefix": "Pakistan",
+        "body": "₨"
+    },
+    "Sri Lankan Rupee": {
+        "prefix": "Sri Lanka",
+        "body": "ரூ"    
+    },
+    "Kazakhstani Tenge": {
+        "prefix": "Kazakhstan",
+        "body": "₸"
+    },
+    "Syrian pound": {
+        "prefix": "Syria",
+        "body": "£S"    
+    },
+    "Bahraini dinar": {
+        "prefix": "Bahrain",
+        "body": ".د.ب"
+    },
+    "Cambodian Riel": {
+        "prefix": "Cambodia",
+        "body": "៛"
+    },
+    "Bangladeshi taka": {
+        "prefix": "Bangladesh",
+        "body": "৳"
+    },
+    "Chinese Yuan a.k.a Renminbi": {
+        "prefix": "China",
+        "body": "¥"
+    },
+    "United States Dollar": {
+        "prefix": "Timor-Leste",
+        "body": "$"    
+    },
+    "The Japanese Yen": {
         "prefix": "Japan",
-        "body": ""
+        "body": "¥"
+    },
+    "Euro": {
+        "prefix": "Cyprus",
+        "body": "€"    
+    },
+    "Philippine peso": {
+        "prefix": "Phillipines",
+        "body": "₱"
+    },
+    "Jordanian Dinar": {
+        "prefix": "Jordan",
+        "body": "د.ا"
+    },
+    "Azerbaijani manat": {
+        "prefix": "Azerbaijin",
+        "body": "₼"
+    },
+    "Indian Rupee": {
+        "prefix": "India",
+        "body": "₹"    
     }
 }
