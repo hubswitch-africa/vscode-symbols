@@ -9,6 +9,10 @@ Get any symbol easily, especially those that aren't on your keyboard. It could b
 
 ## Release Notes
 
+### 0.0.4
+
+Add support for all Australian-Oceania countries
+
 ### 0.0.3
 
 Add support for all Asian countries
