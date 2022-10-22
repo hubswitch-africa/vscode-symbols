@@ -380,7 +380,7 @@
         "prefix": "China",
         "body": "¥"
     },
-    "United States Dollar": {
+    "United States Dollar (Timor-Leste)": {
         "prefix": "Timor-Leste",
         "body": "$"    
     },
@@ -407,5 +407,132 @@
     "Indian Rupee": {
         "prefix": "India",
         "body": "₹"    
+    },
+
+    // Australian-Oceania Currencies
+
+    "Fijian dollar": {
+        "prefix": "Fiji",
+        "body": "FJ$"
+    },
+    "Papua New Guinean kina": {
+        "prefix": "Papua New Guinea",
+        "body": "K"
+    },
+    "Solomon Islands dollar": {
+        "prefix": "Solomon Islands",
+        "body": "Si$"
+    },
+    "United States Dollar (Marshall Islands)": {
+        "prefix": "Marshall Islands",
+        "body": "$"
+    },
+    "United States Dollar (Northern Mariana Islands)": {
+        "prefix": "Northern Mariana Islands",
+        "body": "$"
+    },
+    "United States Dollar (American Samoa)": {
+        "prefix": "American Samoa",
+        "body": "$"
+    },
+    "United States Dollar (Micronesia)": {
+        "prefix": "Micronesia",
+        "body": "$"
+    },
+    "New Zealand Dollar": {
+        "prefix": "New Zealand",
+        "body": "$"
+    },
+    "Vanuatu vatu": {
+        "prefix": "Vanuatu",
+        "body": "VT"
+    },
+    "New Caledonian CFP franc": {
+        "prefix": "New Caledonia",
+        "body": "₣"
+    },
+    "French Polynesia CFP franc": {
+        "prefix": "French Polynesia",
+        "body": "₣"
+    },
+    "Australian dollar": {
+        "prefix": "Australia",
+        "body": "A$"
+    },
+    "Samoan tālā": {
+        "prefix": "Samoa",
+        "body": "WS$"
+    },
+    "United States Dollar (Palau)": {
+        "prefix": "Palau",
+        "body": "$"
+    },
+    "Cook Islands Dollar": {
+        "prefix": "Cook Islands",
+        "body": "$"
+    },
+    "United States Dollar (Guam)": {
+        "prefix": "Guam",
+        "body": "$"
+    },
+    "New Zealand dollar (Niue)": {
+        "prefix": "Niue",
+        "body": "$"
+    },
+    "New Zealand Dollar (Tokelau)": {
+        "prefix": "Tokelau",
+        "body": "$"
+    },
+    "Kiribati dollar": {
+        "prefix": "Kiribati",
+        "body": "$"
+    },
+    "Tuvaluan dollar": {
+        "prefix": "Tuvalu",
+        "body": "TV$"
+    },
+    "CFP franc (Wallis and Futuna Islands)": {
+        "prefix": "Wallis and Futuna Islands",
+        "body": "₣"
+    },
+    "Australian dollar (Nauru)": {
+        "prefix": "Nauru",
+        "body": "A$"
+    },
+    "Tongan paʻanga": {
+        "prefix": "Tonga",
+        "body": "T$"
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
     }
 }
