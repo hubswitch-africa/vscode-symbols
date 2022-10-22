@@ -22,6 +22,7 @@
         ]
     },
     "publisher": "mickela",
+    "icon": "./logo-128.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/hubswitch-africa/vscode-symbols"
