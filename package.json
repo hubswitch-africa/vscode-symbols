@@ -2,7 +2,7 @@
     "name": "vscode-symbols",
     "displayName": "Symbols",
     "description": "Get any symbol easily, especially those that aren't on your keyboard. It could be your native currency, degree symbols, greek alphabets, HTML5 entities, or even crypto currency. All you have to do is type the name.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.67.0"
     },
@@ -22,6 +22,7 @@
         ]
     },
     "publisher": "mickela",
+    "icon": "logo-128.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/hubswitch-africa/vscode-symbols"
