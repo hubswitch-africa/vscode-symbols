@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+### 0.0.5
+
+Add support for all European countries
+
 ### 0.0.4
 
 Add support for all Australian-Oceania countries
