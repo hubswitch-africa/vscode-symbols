@@ -388,7 +388,7 @@
         "prefix": "Japan",
         "body": "¥"
     },
-    "Euro": {
+    "Euro (Cyprus)": {
         "prefix": "Cyprus",
         "body": "€"    
     },
@@ -499,9 +499,257 @@
         "prefix": "Nauru",
         "body": "A$"
     },
-    "Tongan paʻanga": {
+    "Tongan pa'anga": {
         "prefix": "Tonga",
         "body": "T$"
+    },
+    "Hungarian Forint": {
+        "prefix": "Hungary",
+        "body": "Ft"
+    },
+    "Belarusian ruble": {
+        "prefix": "Belarus",
+        "body": "BYN"
+    },
+    "Euro (Austria)": {
+        "prefix": "Austria",
+        "body": "€"
+    },
+    "Serbian Dinar": {
+        "prefix": "Serbia",
+        "body": "din"
+    },
+    "Swiss Franc": {
+        "prefix": "Switzerland",
+        "body": "CHf"
+    },
+    "Euro (Germany)": {
+        "prefix": "Germany",
+        "body": "€"
+    },
+    "Euro (Vatican City / Holy See)": {
+        "prefix": "Holy See",
+        "body": "€"
+    },
+    "Euro (Andorra)": {
+        "prefix": "Andorra",
+        "body": "€"
+    },
+    "Bulgarian Lev": {
+        "prefix": "Bulgeria",
+        "body": "Лв."
+    },
+    "British Pound Sterling": {
+        "prefix": "United Kingdom",
+        "body": "£"
+    },
+    "Euro (France)": {
+        "prefix": "France",
+        "body": "€"
+    },
+    "Euro (Montenegro)": {
+        "prefix": "Montenegro",
+        "body": "€"
+    },
+    "Euro (Luxembourg)": {
+        "prefix": "Luxembourg",
+        "body": "€"
+    },
+    "Euro (Italy)": {
+        "prefix": "Italy",
+        "body": "€"
+    },
+    "Danish Krone": {
+        "prefix": "Denmark",
+        "body": "Kr."
+    },
+    "Euro (Finland)": {
+        "prefix": "Finland",
+        "body": "€"
+    },
+    "Euro (Slovakia)": {
+        "prefix": "Slovakia",
+        "body": "€"
+    },
+    "Norwegian Krone": {
+        "prefix": "Norway",
+        "body": "kr"
+    },
+    "Euro (Ireland)": {
+        "prefix": "Ireland",
+        "body": "€"
+    },
+    "Euro (Spain)": {
+        "prefix": "Spain",
+        "body": "€"
+    },
+    "Euro (Malta)": {
+        "prefix": "Malta",
+        "body": "€"
+    },
+    "Ukrainian hryvnia": {
+        "prefix": "Ukraine",
+        "body": "₴"
+    },
+    "Croatian Kuna": {
+        "prefix": "Croatia",
+        "body": "kn"
+    },
+    "Moldovan Leu": {
+        "prefix": "Moldova",
+        "body": "L"
+    },
+    "Euro (Monaco)": {
+        "prefix": "Monaco",
+        "body": "€"
+    },
+    "Swiss Franc (Liechtenstein)": {
+        "prefix": "Liechtenstein",
+        "body": "CHf"
+    },
+    "Polish Zloty": {
+        "prefix": "Poland",
+        "body": "zł"
+    },
+    "Icelandic Króna": {
+        "prefix": "Iceland",
+        "body": "Íkr"
+    },
+    "Euro (San Marino)": {
+        "prefix": "San Marino",
+        "body": "€"
+    },
+    "Bosnia-Herzegovina Convertible Marka": {
+        "prefix": "Bosnia and Herzegovina",
+        "body": "KM"
+    },
+    "Albanian Lek": {
+        "prefix": "Albania",
+        "body": "L"
+    },
+    "Euro (Lithuania)": {
+        "prefix": "Lithuania",
+        "body": "€"
+    },
+    "Macedonian Denar": {
+        "prefix": "North Macedonia",
+        "body": "Ден"
+    },
+    "Euro (Slovenia)": {
+        "prefix": "Slovenia",
+        "body": "€"
+    },
+    "Romanian Leu": {
+        "prefix": "Romania",
+        "body": "lei"
+    },
+    "Euro (Latvia)": {
+        "prefix": "Latvia",
+        "body": "€"
+    },
+    "Euro (Netherlands)": {
+        "prefix": "Netherlands",
+        "body": "€"
+    },
+    "Russian Ruble": {
+        "prefix": "Russia",
+        "body": "₽"
+    },
+    "Euro (Estonia)": {
+        "prefix": "Estonia",
+        "body": "€"
+    },
+    "Czech Koruna": {
+        "prefix": "Czech Republic (Czechia)",
+        "body": "Kč"
+    },
+    "Euro (Greece)": {
+        "prefix": "Greece",
+        "body": "€"
+    },
+    "Euro (Portugal)": {
+        "prefix": "Portugal",
+        "body": "€"
+    },
+    "Swedish Krona": {
+        "prefix": "Sweden",
+        "body": "kr"
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
+    },
+    "": {
+        "prefix": "",
+        "body": ""
     },
     "": {
         "prefix": "",
